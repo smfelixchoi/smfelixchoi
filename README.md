@@ -1,8 +1,10 @@
 # Welcome!
 
 ## Education
-- B.S. in Mathematics, Korea University
-- Mar. 2016 -- Feb. 2022
+- **M.S. in Applied Mathematics**, Korea University
+  - Mar. 2022 ~ Present 
+- **B.S. in Mathematics**, Korea University
+  - Mar. 2016 ~ Feb. 2022
 
 ## Research Interests
 
