@@ -1,4 +1,11 @@
-### Hi there 👋
+# Welcome!
+
+## Education
+- B.S. in Mathematics, Korea University
+- Mar. 2016 -- Feb. 2022
+
+## Research Interests
+
 
 <!--
 **smfelixchoi/smfelixchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
