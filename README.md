@@ -1,5 +1,3 @@
-# Welcome to My GitHub!
-
 ## Education
 - **M.S. in Applied Mathematics**, Korea University
   - Mar. 2022 ~ Present 
