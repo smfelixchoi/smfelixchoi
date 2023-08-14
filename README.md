@@ -11,7 +11,7 @@
   - Neural Networks as Gaussian Processes, Neural Tangent Kernel and Convergence
 - Deep Learning Applications
   - Audio Spoofing Countermeasure
-  - Speaker Verification Systems
+  - Automatic Speaker Verification Systems
 - (Deep) Reinforcement Learning Algorithms
 - Bayesian Deep Learning
   - Bayesian Neural Networks, Variational Inference
