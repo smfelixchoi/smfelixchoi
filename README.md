@@ -14,7 +14,7 @@
   - Automatic Speaker Verification Systems
 - (Deep) Reinforcement Learning Algorithms
 - Bayesian Deep Learning
-  - Bayesian Neural Networks, Variational Inference
+  - Bayesian Statistics, Bayesian Neural Networks, Variational Inference
 
 ## Repositories Explained
 
@@ -37,6 +37,8 @@
 - Review and Implementation of Deep Learning Algorithms. 
   - **Gradient Descent**, Multi-Layer Perceptron, Convolutional Neural Networks (Basics and **some models**), **Recurrent Neural Networks**, Auto Encoder, Variational Auto Encoder, **Generative Adversarial Networks** (My works are shown in bold.)
 
+### All-about-DL, All-about-DRL
+- These repositories contain materials about what I learned and studied about deep learning and deep reinforcement learning (in progress).
 
 <!--
 **smfelixchoi/smfelixchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
