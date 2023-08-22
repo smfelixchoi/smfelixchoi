@@ -1,8 +1,13 @@
+## Curriculum Vitae
+- More detailed CV can be found in this [link](./CV.pdf).
+
 ## Education
 - **M.S. in Applied Mathematics**, Korea University
-  - Mar. 2022 ~ Present 
+  - Mar. 2022 - Present
+  - Advisor: Prof. Seungsang Oh
 - **B.S. in Mathematics**, Korea University
-  - Mar. 2016 ~ Feb. 2022
+  - Mar. 2016 - Feb. 2022
+  - Mandatory Military Service (Auxiliary Policy, Jun. 2017 - Feb. 2019)
 
 ## Research Interests
 - Learning Theory
