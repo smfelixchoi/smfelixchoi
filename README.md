@@ -10,14 +10,14 @@
   - Mandatory Military Service (Auxiliary Policy, Jun. 2017 - Feb. 2019)
 
 ## Research Interests
-- Learning Theory
+- Learning Theory, Gaussian Processes, and Kernels
   - Statistical Learning Theory, Deep Learning Theory
-- Gaussian Processes
   - Neural Networks as Gaussian Processes, Neural Tangent Kernel and Convergence
 - Deep Learning Applications
-  - Audio Spoofing Countermeasure
-  - Automatic Speaker Verification Systems
+  - Audio Spoofing Countermeasure, Automatic Speaker Verification Systems
+  - Learning low-dimensional representation
 - (Deep) Reinforcement Learning Algorithms
+  - Wide range of DRL algorithms
 - Bayesian Deep Learning
   - Bayesian Statistics, Bayesian Neural Networks, Variational Inference
 
