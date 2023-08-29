@@ -1,5 +1,5 @@
 ## Curriculum Vitae
-- More detailed CV can be found in this [link](./CV.pdf).
+- CV with more details can be found in this [link](./CV.pdf).
 
 ## Education
 - **M.S. in Applied Mathematics**, Korea University
