@@ -8,19 +8,7 @@
 - **B.S. in Mathematics**, Korea University
   - Mar. 2016 - Feb. 2022
   - Mandatory Military Service (Auxiliary Policy, Jun. 2017 - Feb. 2019)
-
-## Research Interests
-- Learning Theory, Gaussian Processes, and Kernels
-  - Statistical Learning Theory, Deep Learning Theory
-  - Neural Networks as Gaussian Processes, Neural Tangent Kernel and Convergence
-- Deep Learning Applications
-  - Audio Spoofing Countermeasure, Automatic Speaker Verification Systems
-  - Learning low-dimensional representation
-- (Deep) Reinforcement Learning Algorithms
-  - Wide range of DRL algorithms
-- Bayesian Deep Learning
-  - Bayesian Statistics, Bayesian Neural Networks, Variational Inference
-
+ 
 ## Repositories Explained
 
 ### MATH-DL-study
