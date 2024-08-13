@@ -2,12 +2,12 @@
 - CV with more details can be found in this [link](./CV.pdf).
 
 ## Education
-- **Ph.D. student in Applied Mathematics, CAM, Cornell University
+- **Ph.D. student in Applied Mathematics**, CAM, Cornell University
   - Aug. 2024 - Present
-- **M.S. in Mathematics**, Korea University
+- **M.S. in Applied Mathematics**, Dept. of Mathematics, Korea University
   - Mar. 2022 - Aug. 2024
   - Advisor: Prof. Seungsang Oh
-- **B.S. in Mathematics**, Korea University
+- **B.S. in Mathematics**, Dept. of Mathematics,  Korea University
   - Mar. 2016 - Feb. 2022
   - Mandatory Military Service (Auxiliary Policy, Jun. 2017 - Feb. 2019)
  
