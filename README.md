@@ -2,8 +2,10 @@
 - CV with more details can be found in this [link](./CV.pdf).
 
 ## Education
-- **M.S. in Applied Mathematics**, Korea University
-  - Mar. 2022 - Present
+- **Ph.D. student in Applied Mathematics, CAM, Cornell University
+  - Aug. 2024 - Present
+- **M.S. in Mathematics**, Korea University
+  - Mar. 2022 - Aug. 2024
   - Advisor: Prof. Seungsang Oh
 - **B.S. in Mathematics**, Korea University
   - Mar. 2016 - Feb. 2022
@@ -18,10 +20,10 @@
   - **Gradient Descent**, Multi-Layer Perceptron, Convolutional Neural Networks (Basics and **some models**), **Recurrent Neural Networks**, Auto Encoder, Variational Auto Encoder, **Generative Adversarial Networks** (My works are shown in bold.)
 
 ### MATH-DRL-study
-- Deep Reinforcement Learning Seminar (Mar. 2023 ~ Present)
-  - Participating as a leader.
+- Deep Reinforcement Learning Seminar (Mar. 2023 ~ Sep. 2023)
+  - Participated as a leader.
 - Review and Implementation of Deep Reinforcement Learning Algorithms
-  - **Markov Decision Processes**, **Dynamic Programming**, Reinforcement Learning Algorithms (Monte Carlo, **Temporal Difference**), Deep Q-Networks (Fundamentals and its variants & **Prioritized Experience Replay**), **Policy Gradient Methods (REINFORCE)**, Actor Critic Methods (Fundamentals and A3C), **Proximal Policy Optimization (planned)**, Deep Deterministic Policy Gradient (planned) (My works are shown in bold.)
+  - **Markov Decision Processes**, **Dynamic Programming**, Reinforcement Learning Algorithms (Monte Carlo, **Temporal Difference**), Deep Q-Networks (Fundamentals and its variants & **Prioritized Experience Replay**), **Policy Gradient Methods (REINFORCE)**, Actor Critic Methods (Fundamentals and A3C), **Proximal Policy Optimization** (My works are shown in bold.)
    
 ### MATH-DL-study-2
 - Deep Learning Seminar Season 2 (Jun. 2023 ~ Present)
